@@ -1,0 +1,18 @@
+# Deep learning framework
+#tensorflow
+
+# Numerical library
+numpy
+
+# Machine learning library
+sklearn
+
+# Image processing
+opencv-python
+Pillow
+
+# HTML/XML scraping library
+lxml
+
+# Get all files in path including in subdirectories (only 06)
+imutils
